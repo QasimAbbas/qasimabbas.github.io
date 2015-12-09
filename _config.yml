@@ -29,7 +29,7 @@ avatar: "/img/penguin.png"
 navbar-links:
   Home: ""
   About: "aboutme"
-  My Projects: ""
+  My Projects: "myprojects"
   
 # --- Footer options --- #
 
