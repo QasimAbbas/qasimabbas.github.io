@@ -14,3 +14,12 @@ Features:
 - To Split the Bill if you went out to eat with your friend
 - Notification Service
 - So you each get a notification when you're both free and want to hang
+
+### [ProjectFlop](https://github.com/SimpleSnippet/ProjectFlop.git)
+Another hackathon project from Unhackathon in AlleyNYC.  This project is a small Javascript game I made in the last 4 hours of the hackathon.  It generates blocks from one side of the screen and the goal is to see you block on the other side survive by destroying the other blocks with bullets
+Features:
+
+- Geonometric Movement of the blocks
+- Increase block spawn rate and speed per level
+- Movement with arrow keys and shoot with space bar 
+- See how long you can survive!
