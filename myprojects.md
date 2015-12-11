@@ -26,7 +26,6 @@ Features:
 - Increase block spawn rate and speed per level
 - Movement with arrow keys and shoot with space bar 
 - See how long you can survive!
-- 
 
 
 
