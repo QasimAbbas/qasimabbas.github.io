@@ -26,3 +26,16 @@ Features:
 - Increase block spawn rate and speed per level
 - Movement with arrow keys and shoot with space bar 
 - See how long you can survive!
+- 
+
+
+
+### [Rutgers Robotic Hackathon](https://github.com/SimpleSnippet/RoboticsHackathon.git)
+A project made for the Rutgers Robotic Hackathon.  The hackathon required having a robot that consisted of a claw, camera, wheels, and infrered sensor, Arduino, and Raspberry.  The goal was to pick up and place the most ping pong balls into your goal while you compete with 3 other robots in the same ring.  This project ended up winning first place.
+Features:
+
+- Built in native C
+- VR programmed through the camera to detect the distane and placement of a ball
+- Speed and wall collision contorlled by the inrered sensor
+- Claw activated by camera
+- Driving AI programmed using demensions of the playing field
