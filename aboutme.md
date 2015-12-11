@@ -7,7 +7,7 @@ subtitle: Why you'd want to go on a date with me
 My name is Qasim Abbas. I have the following qualities:
 
 - I rock a great beard
-- I'm extremely loyal to my family
+- I'm extremely loyal to my friends and family
 
 What else do you need?
 
