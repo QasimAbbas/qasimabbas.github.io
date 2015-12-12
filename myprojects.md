@@ -38,3 +38,14 @@ Features:
 - Speed and wall collision contorlled by the inrered sensor
 - Claw activated by camera
 - Driving AI programmed using demensions of the playing field
+
+
+
+### [Maple Me Game](https://github.com/SimpleSnippet/MapleMeGame.git)
+A java game that I built for my final project in Intro to Computer Science(CS111).  This game consisted of a knight trying to kill all of the enemies of the kingdom.  It uses native java and sprites generated with a Maple Me Character generator.
+Features:
+
+- Built in native Java
+- Sprites generated form Maple Me
+- Keyboard movements
+- Animations for walking and attacking
