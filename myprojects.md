@@ -29,6 +29,16 @@ Features:
 
 
 
+### [Namaaz Time Calculator](https://github.com/SimpleSnippet/MumineenNamaazTimesCalculator.git)
+A prayer times calculator for Dawoodi Bohra Mumineen.  Uses prayer times calculated with a C library that parses sunset and sunrise times, and the angle of the sun for Nautical Twilight sunrise calculation.  Written in Objective C.  Hopefully this saves time for many other people who want to implement this in their projects!
+Features:
+
+- Built in native Objective C
+- Includes Library for Sunrise and Sunset
+- Algorithms for prayer times calculated.
+
+
+
 ### [Rutgers Robotic Hackathon](https://github.com/SimpleSnippet/RoboticsHackathon.git)
 A project made for the Rutgers Robotic Hackathon.  The hackathon required having a robot that consisted of a claw, camera, wheels, and infrered sensor, Arduino, and Raspberry.  The goal was to pick up and place the most ping pong balls into your goal while you compete with 3 other robots in the same ring.  This project ended up winning first place.
 Features:
