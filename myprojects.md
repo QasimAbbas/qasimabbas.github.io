@@ -29,6 +29,16 @@ Features:
 
 
 
+### [Khajoori](http://khajoori.com/)
+A project that I had started second year in high school.  It is an iOS app for Dawoodi Bohra Mumineen as a one stop resources for prayer times, audios, and pdfs of prayers to help have access to my library and for quick and easy access from anywhere.  It now currenlty has a team behind it with an Android app and Windows Phone app, and it has reached over 22,000+ downloads world wide.
+Features:
+
+- Audios and PDFs of prayers
+- Prayer Time Calculated Based off of location
+- iOS, Android, and Windows Phone support 
+- 22,000+ active users
+
+
 ### [Namaaz Time Calculator](https://github.com/SimpleSnippet/MumineenNamaazTimesCalculator.git)
 A prayer times calculator for Dawoodi Bohra Mumineen.  Uses prayer times calculated with a C library that parses sunset and sunrise times, and the angle of the sun for Nautical Twilight sunrise calculation.  Written in Objective C.  Hopefully this saves time for many other people who want to implement this in their projects!
 Features:
