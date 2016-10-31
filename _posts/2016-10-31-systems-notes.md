@@ -3,9 +3,9 @@ layout: post
 title: Ultimate Systems Programming Guide
 ---
 
-# Ultimate Systems Programming Study Guide
-## Syntax
-### Union
+Ultimate Systems Programming Study Guide
+Syntax
+ Union
 * Store Different datatypes in the same location in memory
 * Can be defined with different members but only one can be used at a time
 ```c
