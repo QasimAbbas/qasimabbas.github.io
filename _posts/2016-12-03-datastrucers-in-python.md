@@ -37,8 +37,7 @@ What do we use boxes for initially?  To store things silly!  I'm assuming you al
 * Ints
  * These are your generic numbers.  No decimal places, it basically cuts that straight off.
  * Let's see what this looks like in action!
- 
+
 ``` python
  num = 1
  ```
-
