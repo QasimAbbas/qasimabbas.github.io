@@ -9,7 +9,7 @@ title: Ultimate Systems Programming Guide
     * [214 Final Review](https://docs.google.com/document/d/1d_AEYR8jUW9ILS8JSHiVsyhh_p7eHAEQg0qgGdAFFGo/edit)
     * [214 Copy of Final Spring 2016](https://docs.google.com/document/d/1fyS46wDSH8mIyp9ADojXjUc-kZyXig1by6K9oK0YATs/edit)
     * [Systems Programming Notes - Paul Jones](http://eden.rutgers.edu/~pmj34/?page=%2FNotes%2FComputer%20Science%2F%2FSystems%20Programming.md)
-    * [Systems Programming Projects](https://github.com/iocat/cs214]
+    * [Systems Programming Projects](https://github.com/iocat/cs214)
 
 ## Syntax
 
