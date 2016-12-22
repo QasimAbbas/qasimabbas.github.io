@@ -5,10 +5,79 @@ title: Ultimate Systems Programming Guide
 
 # Ultimate Systems Programming Study Guide
 
+## Syntax
+
+### Types
+
+* For primitives there are different types in C with different sizes and uses
+* Keep in mind these are all for a 32 bit architecture!!!
+  * int
+    * Integer 4 bytes long
+  * double
+    * More precise number with floating point 16 bytes looking
+  * float
+    * A number with a floating point half the size of a double 8 bytes long
+  * char
+    * A character that is 1 byte long
+
+```c
+
+```
+
+### Declaration of Variables and Functions
+* Primitives are declared normally
+* Functions are still created in a similar way
+
+* These are both placed on the Stack
+
+```c
+
+int i = 0;
+char c = 'C';
+
+int main(int argc, char * argv[]){
+  char *message = Hello;
+  printf(%s, message);
+
+  return;
+}
+
+```
+### Pointers
+* Variables who are addresses to other Variables
+ * Helps point to the same variable in memory
+
+
+### Arrays
+* There are different ways that Arrays are handled in C
+* Arrays can be dereferenced in two different ways
+  * [] brackts like a regular array
+  *  using a pointer dereference
+
+* If you have an Array:
+
+```c
+//Access Element in Double Array
+s[0][0]
+
+//Dereference Double Pointer
+**s
+
+//Deference Pointer of Element of an Array
+*s[0]
+```
+* All do the same thing
+
+### Addresses
+* What is contained in &y?
+
+
+
 ### Union
 
 * Store Different datatypes in the same location in memory
 * Can be defined with different members but only one can be used at a time
+
 ```c
 union money{
     char *currency;
@@ -17,7 +86,7 @@ union money{
 };
 ```
 
-* Allocates to the biggest size, in this case ->
+* Allocates to the biggest size, in this case
 
 ```c
 union money qasim;
@@ -93,9 +162,9 @@ int main()
 
 ```
 
-## Dynamic Memory Allocation
+## Memory
 
-### Malloc
+### Dynamic Memory Allocation - Malloc
 * Allocates requested size of bytes and returns a pointer to the first byte of allocated space
 * Dyanmically allocates Memory in the Heap of a size that is allocated at runtime
 ```c
@@ -174,13 +243,13 @@ GAHHH I DIED
 #### BSS
 * undeclared global variables and what not
 
-### Data
+#### Data
 * declared and initialized variables
 
 #### Text
 * instructions after compilation
 
-### Memory Alignment
+#### Memory Alignment
 * When variables are allocated they have padding
  Ex: Allocating a struct on 32bit architecture
 ```c
@@ -196,23 +265,22 @@ Has 16 bytes
 Order dependant
 
 
-## Implicit vs Explicit Lists
+### Implicit vs Explicit Lists
 
-### Implicit List
+#### Implicit List
 * Uses lengths to link blocks in memory
 * Need to identify whether block is free of allocated
 * Uses the length to move to the next free block
 * Use size to traverse in memory
 * list abstraction
 
-### Explicit List
+#### Explicit List
 * Node to the next free block
 * Won't have free bit
 * Will have pointer to the next free block
 * Will have free blocks for look for sizes wanted
 
-## Algorithms
-### Malloc
+### Algorithms of Malloc
 #### Metadata
 * Information of the data in a block of memory that is dynamically allocated
 
@@ -226,3 +294,5 @@ Order dependant
 *  Next Fit
     * After first space that fits is found, look for next space that fits
     * Saves you from looking at spaces you've already allocated in the beginning, forces you to look at space near the end
+
+## Concurrent Programming

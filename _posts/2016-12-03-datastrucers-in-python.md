@@ -97,3 +97,13 @@ myList[2] = 234
 myList[2] = "Penguin"
 
 ```
+
+#### List Operations
+
+As with any language, in Pythons standard library, there is a plethora of resources given so we can do certain functions on Lists so we would not have to do them from scratch.
+
+
+
+```python
+
+```
