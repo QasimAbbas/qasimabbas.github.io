@@ -8,6 +8,7 @@ My name is Qasim Abbas. I have the following qualities:
 
 - I rock a great beard
 - I love to adventure
+- I am a scrub
 
 What else do you need?
 
