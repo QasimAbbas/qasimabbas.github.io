@@ -17,6 +17,5 @@ An understanding of **managing** and **securing data** storage and transfer on d
                             
 In addition to all of this,  an **iOS Developer** sits on the cusp of a rapidly changing environment with new languages, tools, and hardwares delivered on an annual basis.  The only way one can fathom being on top of all of this is to, as with any field, have a love for what they do.
 
-```
-As a famous author once told it, "Yes, I’ve made a great deal of dough from my fiction, but I never set a single word down on paper with the thought of being paid for it … I have written because it fulfilled me. Maybe it paid off the mortgage on the house and got the kids through college, but those things were on the side—I did it for the buzz. I did it for the pure joy of the thing. And if you can do it for the joy, you can do it forever." - Stephen King
-```
+
+*As a famous author once told it, "Yes, I’ve made a great deal of dough from my fiction, but I never set a single word down on paper with the thought of being paid for it … I have written because it fulfilled me. Maybe it paid off the mortgage on the house and got the kids through college, but those things were on the side—I did it for the buzz. I did it for the pure joy of the thing. And if you can do it for the joy, you can do it forever." - Stephen King*
